@@ -29,3 +29,8 @@ Q) Recursive Insertion Sort Algorithm
 
 - [problem](https://www.codingninjas.com/studio/problems/insertion-sort_624381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 - [solution](./recursiveInsertionSort.cpp)
+
+Q) Quick Sort Algorithm
+
+- [problem](https://www.codingninjas.com/studio/problems/quick-sort_5844?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+- [solution](./quickSort.cpp)
